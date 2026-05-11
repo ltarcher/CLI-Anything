@@ -862,6 +862,13 @@ Each application received complete, production-ready CLI interfaces — not demo
 <td align="center">✅ <a href="n8n/agent-harness/">55+ cmds</a></td>
 </tr>
 <tr>
+<td align="center"><strong>📧 <a href="mailchimp/agent-harness/">Mailchimp</a></strong></td>
+<td>Email Marketing &amp; Automation</td>
+<td><code>cli-anything-mailchimp</code></td>
+<td>Mailchimp Marketing API v3.0</td>
+<td align="center">✅ <a href="mailchimp/agent-harness/">292 cmds</a></td>
+</tr>
+<tr>
 <td align="center"><strong>📚 <a href="zotero/agent-harness/">Zotero</a></strong></td>
 <td>Reference Management</td>
 <td><code>cli-anything-zotero</code></td>
@@ -1162,6 +1169,7 @@ cli-anything/
 ├── 🎵 audacity/agent-harness/           # Audacity CLI (161 tests)
 ├── 🌐 browser/agent-harness/            # Browser CLI (DOMShell MCP, new)
 ├── 📄 libreoffice/agent-harness/        # LibreOffice CLI (158 tests)
+├── 📧 mailchimp/agent-harness/          # Mailchimp Marketing API CLI (292 commands, 27 unit tests)
 ├── 📚 zotero/agent-harness/             # Zotero CLI (new, write import support)
 ├── 📝 mubu/agent-harness/               # Mubu CLI (96 tests)
 ├── 📹 obs-studio/agent-harness/         # OBS Studio CLI (153 tests)
